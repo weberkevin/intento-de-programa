@@ -1,0 +1,3 @@
+requisitos: tener instalado db browser
+            tener instalado pillow
+            tener instalado la extension sqlite viewer
